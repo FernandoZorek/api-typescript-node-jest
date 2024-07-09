@@ -1,0 +1,30 @@
+[
+    {
+        "activated": true,
+        "password": "123",
+        "userName": "test",
+        "name": "test",
+        "email": "email@test.com"
+    },
+    {
+        "activated": true,
+        "password": "123",
+        "userName": "test_1",
+        "name": "test new 1",
+        "email": "email_1@test.com"
+    },
+    {
+        "activated": true,
+        "password": "123",
+        "userName": "test_test",
+        "name": "test test",
+        "email": "test_test@test.com"
+    },
+    {
+        "activated": false,
+        "password": "123",
+        "userName": "vnt12",
+        "name": "test new test",
+        "email": "vnt12@test.com"
+    }
+]

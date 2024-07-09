@@ -1,0 +1,6 @@
+{
+    "watch": ["src", "swagger.yaml"],
+    "ext": ".ts,.js,.d.ts",
+    "ignore": [],
+    "exec": "ts-node -P tsconfig.json ."
+}
